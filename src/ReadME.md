@@ -1,0 +1,1 @@
+# This descripes the architecture of the project
